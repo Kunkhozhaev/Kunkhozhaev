@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LabWorkApp</string>
+    <string name="toolbar_title">developerslife.ru</string>
+    <string name="content_description_info">Info</string>
+    <string name="info">Info</string>
+    <string name="description">Это Android-разработчик</string>
+    <string name="next">Следующий</string>
+    <string name="previous">предыдущий</string>
+</resources>
